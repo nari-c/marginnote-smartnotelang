@@ -1,0 +1,8 @@
+{
+  "addonid": "marginnote.extension.smartnotelang",
+  "author": "nari-c",
+  "title": "SmartNL",
+  "version": "0.1.0",
+  "marginnote_version_min": "3.6.7",
+  "cert_key": "dev"
+}
