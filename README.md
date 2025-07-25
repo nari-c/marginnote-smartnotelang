@@ -13,9 +13,17 @@
 
 ---
 
+### ▶️ 사용 예시
+
+영어 단어/문장을 발췌했을 때 자동으로 카드가 생성되는 예시입니다.
+
+![Usage Example](docs/usage-example.gif)
+
+---
+
 ### ⚙️ 사용 방법
 
-1. Marginnote에서 import 후 SmartNL 아이콘을 눌러 **OpenAI API Key**를 입력합니다.  
+1. Marginnote에서 import 후 SmartNL 아이콘을 눌러 **OpenAI API Key**를 입력합니다. *(API 요금 사용자 부담)*
 2. 문서에서 **텍스트를 발췌**하면, 해당 텍스트에 맞는 언어 및 유형을 자동 감지하여 AI 요청을 보냅니다.  
 3. 응답된 결과는 자동으로 노트에 카드 형태로 생성됩니다.
 
